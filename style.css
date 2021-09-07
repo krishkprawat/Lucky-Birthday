@@ -15,6 +15,7 @@ h1 {
 .container {
   width: 50%;
   margin: auto;
+
   justify-content: center;
 }
 .container2 {
@@ -22,7 +23,7 @@ h1 {
   margin: auto;
   padding-top: 1rem;
   font-weight: bolder;
-  font-size: large;
+  font-size: 2rem;
   text-align: center;
 }
 
@@ -30,6 +31,7 @@ input,
 label {
   display: block;
   font-weight: bold;
+  margin: 0.5rem;
 }
 
 input {
